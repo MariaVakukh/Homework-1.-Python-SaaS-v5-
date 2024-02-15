@@ -4,8 +4,8 @@ import json
 import requests
 from flask import Flask, jsonify, request
 
-API_TOKEN = "weather_py"
-RSA_KEY = "7MUT4MJS5C9PQMAFZH68J72GK"
+API_TOKEN = ""
+RSA_KEY = ""
 
 app = Flask(__name__)
 
